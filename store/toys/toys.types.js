@@ -1,0 +1,1 @@
+export const UPDATE_ALL_TOYS = 'UPDATE_ALL_TOYS';

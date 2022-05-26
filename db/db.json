@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "name": "Test Soft Name",
+      "description": "Desc",
+      "species": "Soft",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "name": "My new toy",
+      "description": "Gif",
+      "species": "Gifts",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "name": "Second gift",
+      "description": "Some description",
+      "species": "Gifts",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "description": "Test",
+      "species": "test group",
+      "quantity": 2,
+      "id": 4
+    }
+  ]
+}

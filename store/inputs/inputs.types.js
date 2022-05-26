@@ -1,0 +1,1 @@
+export const TOYS_UPDATE_INPUT = 'TOYS_UPDATE_INPUT';
