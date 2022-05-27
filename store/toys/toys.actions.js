@@ -83,6 +83,7 @@ class ToysActions {
         });
       }
       dispatch(this.refreshInputState());
+      dispatch(this.updateToys([]));
       navigation && navigation.goBack();
     };
   };
